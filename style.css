@@ -1,0 +1,148 @@
+/* navigation */
+.home{
+    display: flex;
+    gap: 40px;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+.banner{
+    text-align: center;
+}
+.adv{
+    font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+
+}
+.brand{
+    font-family: Work Sans;
+font-size: 64px;
+font-weight: 700;
+text-align: center;
+}
+.primary{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: orange;
+    border: none;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.banner-p{
+    height: 700px;
+    width: 1200px;
+    margin-left: 170px;
+    margin-bottom: 70px;
+}
+header{
+    background-color: bisque;
+}
+.quick{
+    color: #727272;
+}
+.feat{
+    color: orange;
+}
+.team{
+    display: flex;
+    
+    
+}
+.sub-team-1{
+    margin: 5px;
+}
+.sub-team-2{
+    margin: 5px;
+}
+.main{
+    display: flex;
+}
+.team-dc{
+    margin-left: 60px;
+    margin-top: 200px;
+}
+.feature{
+    font-size: 45px;
+    font-weight: 700;
+}
+.fe-dc{
+    color: #727272;
+}
+.bold{
+    font-weight: 700px;
+    font-size: 20px;
+}
+.dark{
+    color: #727272;
+}
+.arc{
+    height: 600px;
+    width: 800px;
+}
+.love{
+    display: flex;
+    
+    align-items: center;
+}
+.dc{
+    margin-top: 500px;
+    margin-left: 300px;
+}
+.year{
+    font-size: 45px;
+}
+.exp{
+    padding: 20px;
+    background-color: orangered;
+    border-radius: 10px;
+    border: none;
+    margin-left: 700px;
+}
+.fact{
+    font-size: 35px;
+}
+.fact-dc{
+    color: #727272;
+}
+.foot{
+    margin-left: 130px;
+}
+.son{
+    border: 1px solid orange;
+    width: 170px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+.mot{display: flex;
+    justify-content: space-around;
+}
+.our{
+    font-size: 30px;
+    font-weight: 700;
+}
+.lorem{
+ color: #727272;
+}
+.last{
+    text-align: center;
+}
+.spon-lo{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.red{
+    text-align: center;
+    background-color: bisque;
+    height: 30px;
+    
+}
+.blue{
+    align-items: center;
+    height: 200px;
+    margin-top: 150px;
+}
